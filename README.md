@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Carlos Ademar Suárez 👋</h1>
+<h1 align="center">Hola, soy Carlos Ademar Suárez </h1>
 <h3 align="center">Estudiante de Ingeniería de Sistemas · Desarrollador de Software · Entusiasta de IA e IoT</h3>
 
 
