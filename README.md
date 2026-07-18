@@ -1,9 +1,7 @@
 <h1 align="center">Hola, soy Carlos Ademar Suárez 👋</h1>
 <h3 align="center">Estudiante de Ingeniería de Sistemas · Desarrollador de Software · Entusiasta de IA e IoT</h3>
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1600&auto=format&fit=crop" alt="Banner" width="100%">
-</p>
+
 
 <p align="center">
   <a href="https://github.com/Cars1602">
@@ -86,16 +84,7 @@ Inteligencia Artificial · Modelos LLM · Redes neuronales · Visión artificial
 
 ---
 
-## 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cars1602&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cars1602&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cars1602&theme=tokyonight&hide_border=true">
-</p>
 
 ---
 
