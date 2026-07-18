@@ -89,16 +89,12 @@ Inteligencia Artificial · Modelos LLM · Redes neuronales · Visión artificial
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cars1602&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cars1602&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cars1602&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cars1602&theme=tokyonight&hide_border=true">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Cars1602&theme=tokyonight&column=7&margin-w=15&margin-h=15">
 </p>
 
 ---
