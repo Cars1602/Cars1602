@@ -78,7 +78,7 @@ Inteligencia Artificial · Modelos LLM · Redes neuronales · Visión artificial
 
 - 🔹 **Sistema de Gestión para Servicio Técnico**
 - 🔹 **Sistema de Inventario para Licorería**
-- 🔹 **Drone Autónomo con ESP32**
+- 🔹 **Automatizacion de sms por whatsapp**
 - 🔹 **Plataforma Web Full Stack**
 - 🔹 **Automatización con Firebase**
 
